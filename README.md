@@ -3,6 +3,7 @@ c++ answer for GRADUATION problem (https://algospot.com/judge/submission/recent/
 
 # Used Strategy
 Bitwise operation.
+
 Memoization(dynamic programming Strategy).
 
 # Reference
